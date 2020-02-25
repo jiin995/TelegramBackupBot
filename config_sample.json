@@ -1,0 +1,8 @@
+{
+  "token": "XXXXXXXX:XXXXXXXXX",
+  "backup_chats": [
+    {"chat_id": "XXXXXXXX","username": "Pluto de plutis"},
+    {"chat_id": "XXXXXXXX","username": "Paperino de paperi"}
+    ],
+  "backup_name":"Backup XXX"
+}
